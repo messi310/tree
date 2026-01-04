@@ -1,0 +1,17 @@
+release/binsorttreewidget.o
+release/lineitem.o
+release/main.o
+release/mainwindow.o
+release/nodeitem.o
+release/scene.o
+release/textinputdialog.o
+release/textitem.o
+release/thrdbintreewidget.o
+release/qrc_resource.o
+release/moc_binsorttreewidget.o
+release/moc_mainwindow.o
+release/moc_nodeitem.o
+release/moc_scene.o
+release/moc_textinputdialog.o
+release/moc_textitem.o
+release/moc_thrdbintreewidget.o

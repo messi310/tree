@@ -1,0 +1,17 @@
+debug/binsorttreewidget.o
+debug/lineitem.o
+debug/main.o
+debug/mainwindow.o
+debug/nodeitem.o
+debug/scene.o
+debug/textinputdialog.o
+debug/textitem.o
+debug/thrdbintreewidget.o
+debug/qrc_resource.o
+debug/moc_binsorttreewidget.o
+debug/moc_mainwindow.o
+debug/moc_nodeitem.o
+debug/moc_scene.o
+debug/moc_textinputdialog.o
+debug/moc_textitem.o
+debug/moc_thrdbintreewidget.o

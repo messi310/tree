@@ -1,0 +1,158 @@
+﻿  Generate moc_predefs.h
+   Qt/MSBuild: 3.4.0.1
+  Reading Qt configuration (D:/Qt/5.15.1/msvc2019_64/bin/qmake)
+   Qt: 5.15.1
+  Uic'ing binsorttreewidget.ui...
+  Uic'ing mainwindow.ui...
+  Uic'ing textinputdialog.ui...
+  Uic'ing thrdbintreewidget.ui...
+  Rcc'ing resource.qrc...
+  Moc'ing binsorttreewidget.h...
+  Moc'ing mainwindow.h...
+   Warning: Failed to resolve include "D:/QQ/????/???/???/DSVisual-master/DSVisual-master/Debug/moc_predefs.h" for moc file D:\QQ\????\???\???\DSVisual-master\DSVisual-master\binsorttreewidget.h
+  Moc'ing nodeitem.h...
+   Warning: Failed to resolve include "D:/QQ/????/???/???/DSVisual-master/DSVisual-master/Debug/moc_predefs.h" for moc file D:\QQ\????\???\???\DSVisual-master\DSVisual-master\mainwindow.h
+  Moc'ing scene.h...
+   Warning: Failed to resolve include "D:/QQ/????/???/???/DSVisual-master/DSVisual-master/Debug/moc_predefs.h" for moc file D:\QQ\????\???\???\DSVisual-master\DSVisual-master\nodeitem.h
+  Moc'ing textinputdialog.h...
+   Warning: Failed to resolve include "D:/QQ/????/???/???/DSVisual-master/DSVisual-master/Debug/moc_predefs.h" for moc file D:\QQ\????\???\???\DSVisual-master\DSVisual-master\scene.h
+  Moc'ing textitem.h...
+   Warning: Failed to resolve include "D:/QQ/????/???/???/DSVisual-master/DSVisual-master/Debug/moc_predefs.h" for moc file D:\QQ\????\???\???\DSVisual-master\DSVisual-master\textinputdialog.h
+  Moc'ing thrdbintreewidget.h...
+   Warning: Failed to resolve include "D:/QQ/????/???/???/DSVisual-master/DSVisual-master/Debug/moc_predefs.h" for moc file D:\QQ\????\???\???\DSVisual-master\DSVisual-master\textitem.h
+   Warning: Failed to resolve include "D:/QQ/????/???/???/DSVisual-master/DSVisual-master/Debug/moc_predefs.h" for moc file D:\QQ\????\???\???\DSVisual-master\DSVisual-master\thrdbintreewidget.h
+  binsorttreewidget.cpp
+  lineitem.cpp
+  main.cpp
+  mainwindow.cpp
+  nodeitem.cpp
+  scene.cpp
+  textinputdialog.cpp
+  textitem.cpp
+  thrdbintreewidget.cpp
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\binsorttreewidget.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 lineitem.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\mainwindow.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 scene.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\thrdbintreewidget.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 binsorttreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\tree.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 lineitem.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(27,66): error C2039: "data": 不是 "BinTreeNode<QString>" 的成员 (编译源文件 lineitem.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(30): message : 参见“BinTreeNode<QString>”的声明 (编译源文件 lineitem.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(28,70): error C2039: "data": 不是 "BinTreeNode<int>" 的成员 (编译源文件 lineitem.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(31): message : 参见“BinTreeNode<int>”的声明 (编译源文件 lineitem.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 thrdbintreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 nodeitem.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\tree.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 nodeitem.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(27,66): error C2039: "data": 不是 "BinTreeNode<QString>" 的成员 (编译源文件 nodeitem.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(30): message : 参见“BinTreeNode<QString>”的声明 (编译源文件 nodeitem.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\tree.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(28,70): error C2039: "data": 不是 "BinTreeNode<int>" 的成员 (编译源文件 nodeitem.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(31): message : 参见“BinTreeNode<int>”的声明 (编译源文件 nodeitem.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 nodeitem.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(27,66): error C2039: "data": 不是 "BinTreeNode<QString>" 的成员 (编译源文件 main.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(30): message : 参见“BinTreeNode<QString>”的声明 (编译源文件 main.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(28,70): error C2039: "data": 不是 "BinTreeNode<int>" 的成员 (编译源文件 main.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(31): message : 参见“BinTreeNode<int>”的声明 (编译源文件 main.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 binsorttreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\tree.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 binsorttreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(27,66): error C2039: "data": 不是 "BinTreeNode<QString>" 的成员 (编译源文件 binsorttreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(30): message : 参见“BinTreeNode<QString>”的声明 (编译源文件 binsorttreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(28,70): error C2039: "data": 不是 "BinTreeNode<int>" 的成员 (编译源文件 binsorttreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(31): message : 参见“BinTreeNode<int>”的声明 (编译源文件 binsorttreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 thrdbintreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\tree.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 thrdbintreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(27,66): error C2039: "data": 不是 "BinTreeNode<QString>" 的成员 (编译源文件 thrdbintreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(30): message : 参见“BinTreeNode<QString>”的声明 (编译源文件 thrdbintreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(28,70): error C2039: "data": 不是 "BinTreeNode<int>" 的成员 (编译源文件 thrdbintreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(31): message : 参见“BinTreeNode<int>”的声明 (编译源文件 thrdbintreewidget.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\tree.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(27,66): error C2039: "data": 不是 "BinTreeNode<QString>" 的成员 (编译源文件 mainwindow.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(30): message : 参见“BinTreeNode<QString>”的声明 (编译源文件 mainwindow.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(28,70): error C2039: "data": 不是 "BinTreeNode<int>" 的成员 (编译源文件 mainwindow.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(31): message : 参见“BinTreeNode<int>”的声明 (编译源文件 mainwindow.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 textinputdialog.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\tree.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 textinputdialog.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(87,31): error C2065: “arrowAngle”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(87,73): error C2065: “arrowAngle”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(88,31): error C2065: “arrowAngle”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(88,74): error C2065: “arrowAngle”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(89,31): error C2065: “arrowAngle”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(89,73): error C2065: “arrowAngle”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(90,31): error C2065: “arrowAngle”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(90,74): error C2065: “arrowAngle”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(92,22): error C2065: “SingleArrow”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(109,35): error C2065: “p1”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(109,44): error C2065: “p1”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(109,76): error C2065: “p1”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(27,66): error C2039: "data": 不是 "BinTreeNode<QString>" 的成员 (编译源文件 textinputdialog.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(30): message : 参见“BinTreeNode<QString>”的声明 (编译源文件 textinputdialog.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(109,87): error C2440: “<function-style-cast>”: 无法从“qreal”转换为“QRect”
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(109,87): message : 无构造函数可以接受源类型，或构造函数重载决策不明确
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(110,11): error C2065: “p1”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(28,70): error C2039: "data": 不是 "BinTreeNode<int>" 的成员 (编译源文件 textinputdialog.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(31): message : 参见“BinTreeNode<int>”的声明 (编译源文件 textinputdialog.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(112,15): error C2065: “p1”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.cpp(118,15): error C2065: “p1”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\lineitem.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 scene.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\tree.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 scene.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(27,66): error C2039: "data": 不是 "BinTreeNode<QString>" 的成员 (编译源文件 scene.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(30): message : 参见“BinTreeNode<QString>”的声明 (编译源文件 scene.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(28,70): error C2039: "data": 不是 "BinTreeNode<int>" 的成员 (编译源文件 scene.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(31): message : 参见“BinTreeNode<int>”的声明 (编译源文件 scene.cpp)
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(25,22): error C2039: "left": 不是 "BinTreeNode<QString>" 的成员
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(30): message : 参见“BinTreeNode<QString>”的声明
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(55,18): error C2039: "data": 不是 "BinTreeNode<QString>" 的成员
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(30): message : 参见“BinTreeNode<QString>”的声明
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(61,22): error C2039: "data": 不是 "BinTreeNode<int>" 的成员
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(31): message : 参见“BinTreeNode<int>”的声明
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(143,22): error C2065: “parentLine_left”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(144,39): error C2039: "left": 不是 "BinTreeNode<QString>" 的成员
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.h(30): message : 参见“BinTreeNode<QString>”的声明
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(145,29): error C2065: “parentLine_left”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(146,16): error C2065: “parentLine_left”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(146,31): error C2541: “delete”: 不能删除不是指针的对象
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(147,9): error C2065: “parentLine_left”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(150,5): error C2181: 没有匹配 if 的非法 else
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(152,22): error C2065: “parentLine_right”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(154,29): error C2065: “parentLine_right”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(155,16): error C2065: “parentLine_right”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(155,32): error C2541: “delete”: 不能删除不是指针的对象
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\nodeitem.cpp(156,9): error C2065: “parentLine_right”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\binsorttreewidget.cpp(15,28): error C2039: "BinTreeNodeCountChanged": 不是 "Scene" 的成员
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.h(11): message : 参见“Scene”的声明
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\binsorttreewidget.cpp(15,51): error C2065: “BinTreeNodeCountChanged”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\thrdbintreewidget.cpp(16,28): error C2039: "BinTreeNodeCountChanged": 不是 "Scene" 的成员
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.h(11): message : 参见“Scene”的声明
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\thrdbintreewidget.cpp(16,51): error C2065: “BinTreeNodeCountChanged”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(23,27): error C2039: "AnimationFinished": 不是 "Scene" 的成员
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.h(11): message : 参见“Scene”的声明
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(23,44): error C2065: “AnimationFinished”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(40,17): error C2065: “it”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(40,19): error C2541: “delete”: 不能删除不是指针的对象
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(41,24): error C2065: “it”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(86,30): error C2039: "AnimationFinished": 不是 "Scene" 的成员
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.h(11): message : 参见“Scene”的声明
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(86,47): error C2065: “AnimationFinished”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(87,27): error C2039: "AnimationFinished": 不是 "Scene" 的成员
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.h(11): message : 参见“Scene”的声明
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(87,44): error C2065: “AnimationFinished”: 未声明的标识符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(92,78): error C2001: 常量中有换行符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(96,78): error C2001: 常量中有换行符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(258,75): error C2001: 常量中有换行符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(378,53): error C2001: 常量中有换行符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(379,54): error C2001: 常量中有换行符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(381,55): error C2001: 常量中有换行符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(382,56): error C2001: 常量中有换行符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(412,67): error C2001: 常量中有换行符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(435,63): error C2001: 常量中有换行符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(689,53): error C2001: 常量中有换行符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(690,54): error C2001: 常量中有换行符
+D:\QQ\接受文件\组员一\组员一\DSVisual-master\DSVisual-master\scene.cpp(690): fatal error C1075: “{”: 未找到匹配令牌
